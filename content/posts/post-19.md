@@ -63,4 +63,4 @@ draft: false
 
 На этом всё. Благодарю вас за внимание. До новых встреч в следующих уроках!
 
-[YouTube видео](https://youtu.be/eyEr4kKtNVQ?si=ph07IMaOhJk2psK9)
+[YouTube видео](https://youtu.be/eyEr4kKtNVQ)
