@@ -55,4 +55,4 @@ draft: false
 
 Помните, что ваше счастье и благополучие стоят того, чтобы ожидать лучших отношений, основанных на истинных библейских принципах и Божьей воле.
 
-[YouTube видео](https://youtu.be/xTRK56DxdfM?si=VX3iK3LcMRET9c3G)
+[YouTube видео](https://youtu.be/xTRK56DxdfM)
